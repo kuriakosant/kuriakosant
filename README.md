@@ -1,25 +1,24 @@
-
 # Kyriakos Antoniadis
 
-**Software Engineer | Full-Stack Developer**  
-**Computer Science Graduate**
+**Full-Stack Software Engineer | Computer Science Graduate | Open Source Advocate**
 
-Welcome to my GitHub profile! I am a passionate software developer with a strong foundation in programming, web technologies, and database management. My journey into technology began at the age of 10, and since then, I have cultivated a rich set of skills through education, internships, and professional experience.
+Welcome to my GitHub profile!
+I've been fascinated by technology since I was a kid, and over the years, that curiosity grew into a deep love for Linux, software engineering, networks and building things that actually matter. These days, I work as a **Full-Stack Engineer** at a local AI startup, where I get to blend my passion for code and problem-solving into real-world, scalable applications. 
 
-Currently, I work as a **Full-Stack Web Developer** at **Boudraw**, where I contribute to the design and implementation of AI-driven solutions, leveraging cutting-edge tools and frameworks to deliver impactful applications.
+## 🛠️ **Technical Toolbox**
 
-## 🔧 **Technical Skills**
+- **Languages:** Python, JavaScript, TypeScript
+- **Frontend:** React, Vue, Angular, HTML, CSS, Tailwind
+- **Backend:** Django, Node.js, REST APIs, GraphQL
+- **Databases:** SQL (PostgreSQL, MySQL, Oracle), NoSQL (MongoDB, Redis)
+- **Linux & DevOps:** Systemd, Bash, Docker, AWS
+- **Version Control:** Git, GitHub, Agile (Scrum, Jira)
+- **Design & Tools:** Figma, Photoshop, Shell Scripting
 
--   **Programming Languages:** Python, JavaScript, TypeScript
--   **Frontend Development:** React.js, Vue.js, Angular, HTML, CSS, Tailwind CSS
--   **Backend Development:** Django, Node.js, RESTful APIs, GraphQL
--   **Databases:** SQL (PostgreSQL, MySQL, Oracle), NoSQL (MongoDB, Redis)
--   **DevOps & Containerization:** Docker, AWS
--   **Version Control & Collaboration:** Git, GitHub, Agile methodologies (Scrum, Jira, Trello)
--   **Other Skills:** Figma, Photoshop, Canva, Shell Scripting, System Administration
+## 💬 **Let's Connect**
 
-## 💬 **About Me**
+I’m always interested in connecting with fellow developers. Feel free to explore my repositories or reach out if you'd like to collaborate.
 
-I am a hard-working and passionate software developer eager to contribute to impactful projects. My goal is to leverage my technical expertise and problem-solving skills in full-time roles where I can grow alongside ambitious teams.
+---
 
-Feel free to explore my projects and connect with me for potential collaborations.
+**Information wants to be free.**  
