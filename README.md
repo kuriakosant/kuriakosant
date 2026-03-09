@@ -1,6 +1,6 @@
 # Kyriakos Antoniadis
 
-**Software Engineer | Computer Science Graduate **
+Software Engineer | Computer Science Graduate
 
 I've been fascinated by technology since I was a kid, and over the years, that curiosity grew into a deep love for Linux, software engineering, networks and building things that actually matter. These days, I work as a **Full Stack Software Engineer** at a local AI startup, where I get to blend my passion for code and problem-solving into real-world, scalable applications. 
 
