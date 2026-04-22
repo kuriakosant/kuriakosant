@@ -22,18 +22,16 @@
 * **BSc in Computer Science** | Romanian-American University (2021–2024)
     * *Focus:* Systems design, Data science , Web Development , Linux & Networking.
 ---
-
-
 ### 🛰️ Current Field Ops
 
-* **🚀 AI Startup Architecture (Boudraw)**
-    * Architecting production-grade RAG pipelines and scaling autonomous AI customer support agents for the Shopify ecosystem.
+* **🚀 AI Startup (Boudraw)**
+    * Architecting RAG pipelines and scaling autonomous AI customer support agents for the Shopify ecosystem.
     * **Role:** Lead Full-Stack Logic — *Django, Pinecone, LangChain, Bland AI.* Integrating live telephony and vector memory for real-time merchant support.
 * **🤖 Personal R&D: AI & Web3**
     * Developing autonomous **Solana** agents for liquidity monitoring and price-action triggers.
-    * **Project:** [Solana Phantom Bot](https://github.com/kuriakosant/SolanaWeb3js-Phantom-Trading-Bot) — *Web3.js, Node.js.* Automated token swaps based on real-time price-action and wallet triggers.
+    * **Project:** [Solana Phantom Wallet Trading Bot](https://github.com/kuriakosant/SolanaWeb3js-Phantom-Trading-Bot) — *Web3.js, Node.js.* Automated token swaps based on real-time price-action and wallet triggers.
 * **📊 Fintech & Quantitative Analytics**
-    * Building institutional-grade portfolio engines to calculate true win-rates, MWRR, and algorithmic P&L correlation.
+    * Building institutional grade portfolio engines to calculate true win-rates, MWRR, and algorithmic P&L correlation.
     * **Project:** [Broker Portfolio & Spending Analyzer](https://github.com/kuriakosant/Trading212-Portfolio-CSV-Analyzer) — *Python, Streamlit, Plotly.* Automated FIFO cost-basis and hidden fee tracking for T212/Revolut.
 * **👁️ Industrial Computer Vision**
     * Deploying AI Vision pipelines in manufacturing environments to bridge the gap between legacy handwritten workflows and structured industrial data.
