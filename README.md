@@ -26,11 +26,22 @@
 
 ### 🛰️ Current Field Ops
 
-* **🤖 AI & Fintech:** Autonomous **Solana Web3** agents. Liquidity monitoring and price-action triggers via Web3.js.
-* **👁️ Industrial Vision:** Python/OpenCV pipelines for automated wood factory inventory (VTSD).
-* **🛸 UAV Engineering:** Long-range digital platforms. Heavy experience in **ELRS** link reliability and **Betaflight** PID optimization.
-* **🛠️ Hardware Hacking:** Prototyping ruggedized **Linux Cyberdecks** for field auditing and UAV tuning.
-
+* **🚀 AI Startup Architecture (Boudraw)**
+    * Architecting production-grade RAG pipelines and scaling autonomous AI customer support agents for the Shopify ecosystem.
+    * **Role:** Lead Full-Stack Logic — *Django, Pinecone, LangChain, Bland AI.* Integrating live telephony and vector memory for real-time merchant support.
+* **🤖 Personal R&D: AI & Web3**
+    * Developing autonomous **Solana** agents for liquidity monitoring and price-action triggers.
+    * **Project:** [Solana Phantom Bot](https://github.com/kuriakosant/SolanaWeb3js-Phantom-Trading-Bot) — *Web3.js, Node.js.* Automated token swaps based on real-time price-action and wallet triggers.
+* **📊 Fintech & Quantitative Analytics**
+    * Building institutional-grade portfolio engines to calculate true win-rates, MWRR, and algorithmic P&L correlation.
+    * **Project:** [Broker Portfolio & Spending Analyzer](https://github.com/kuriakosant/Trading212-Portfolio-CSV-Analyzer) — *Python, Streamlit, Plotly.* Automated FIFO cost-basis and hidden fee tracking for T212/Revolut.
+* **👁️ Industrial Computer Vision**
+    * Deploying AI Vision pipelines in manufacturing environments to bridge the gap between legacy handwritten workflows and structured industrial data.
+    * **Project:** [Lumber VTSD Pipeline](https://github.com/kuriakosant/industrial-lumber-VTSD-pipeline) — *GPT-4o, Streamlit.* Automating wood factory order ingestion with 90% manual entry reduction.
+* **🛸 Embedded Aero-Tech & UAVs**
+    * Researching real-time state estimation and predictive HUDs while engineering long-range digital platforms optimized for ELRS link reliability.
+    * **Project:** [KTP Engine](https://github.com/kuriakosant/kinetic-trajectory-projection-FPV-engine) — *C++, ESP32-S3, FreeRTOS.* Stochastic "ghost" trajectory projection for high-inertia flight.
+    * **Project:** [SUKHOI 5" Build](https://github.com/kuriakosant/custom-5inch-FPV-drone-build-ELRS) — *SpeedyBee F405 V4, DJI O4.* Custom GPS Rescue and PID-optimized freestyle rig.
 ---
 
 ### 🛠️ Technical Arsenal
